@@ -23,7 +23,7 @@ PawApp é um aplicativo iOS desenvolvido com **SwiftUI** e **SwiftData** para ge
 > Abaixo um vídeo rápido mostrando o funcionamento do app:
 
 ## 🎥 Demo
-https://github.com/victorvieiraveiga/PawApp/releases/download/1.0/PawApp.mov
+https://github.com/victorvieiraveiga/PawApp/releases/download/1/PawApp.mov
 
 
 ## 🚀 Como rodar o projeto
