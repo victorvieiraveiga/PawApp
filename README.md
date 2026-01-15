@@ -18,6 +18,13 @@ PawApp é um aplicativo iOS desenvolvido com **SwiftUI** e **SwiftData** para ge
 * NavigationStack
 * PhotosUI
 
+## 📸 Screenshots
+<img src="Paw1.png" width="400"/>
+<img src="Paw2.png" width="400"/>
+<img src="Paw3.png" width="400"/>
+<img src="Paw4.png" width="400"/>
+<img src="Paw5.png" width="400"/>
+
 ## 🎥 Vídeo de demonstração
 
 > Abaixo um vídeo rápido mostrando o funcionamento do app:
